@@ -7,11 +7,11 @@
     int main()
     {
        char * fn = "/tmp/XYZ";
-       char buffer[60];
+       char buffer[256];
        FILE *fp;
 
        /* get user input */
-       scanf("%50s", buffer );
+       scanf("%256s", buffer );
 
        if(!access(fn, W_OK)){
 

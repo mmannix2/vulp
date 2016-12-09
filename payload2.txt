@@ -1,11 +1,1 @@
-==> /etc/shadow <==
-saned:*:15749:0:99999:7:::
-seed:$6$OqXAiWQA$AIjctTUkHMECipE8EiAAJh76YZgrvadHKmWs3hQ3BU8vCC1bSVv4NhGWw2FsZ01LiZw0SL6Gc/p8Plw7ShkZR0:15933:0:99999:7:::
-mysql:!:15931:0:99999:7:::
-bind:*:15931:0:99999:7:::
-snort:*:15931:0:99999:7:::
-ftp:*:15931:0:99999:7:::
-telnetd:*:15931:0:99999:7:::
-vboxadd:!:15937::::::
-sshd:*:16080:0:99999:7:::
-test:$6$VUWPVqtw$EjeIWBK13oCWWqqzLIsgJyb9Z8z5QbQitl3ItQoiZ6rNIL2vdykDIfCpj8qRHRlvWJeuor6.OCPDgcwVoLO9O0:17144:0:99999:7:::
+hacker:$6$VUWPVqtw$EjeIWBK13oCWWqqzLIsgJyb9Z8z5QbQitl3ItQoiZ6rNIL2vdykDIfCpj8qRHRlvWJeuor6.OCPDgcwVoLO9O0:17144:0:99999:7:::
