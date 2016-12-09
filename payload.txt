@@ -1,0 +1,1 @@
+hacker:x:0:0:Hacker Man,,,:/home/seed:/bin/bash
